@@ -4,6 +4,9 @@ Test Project
 Feature 1
 Feature 1
 Feature 1
+Feature 2
+Feature 2
+Feature 2
 
 The idea is to read the [authentication file of Subversion](http://svnbook.red-bean.com/en/1.7/svn-book.html#svn.serverconfig.pathbasedauthz)
 and convert it into a form which can be used inside an application.

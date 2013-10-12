@@ -1,7 +1,5 @@
-Subversion Authentication Parser Module
-=======================================
-
-[![Build Status](https://buildhive.cloudbees.com/job/khmarbaise/job/sapm/badge/icon)](https://buildhive.cloudbees.com/job/khmarbaise/job/sapm/)
+Test Project
+============
 
 The idea is to read the [authentication file of Subversion](http://svnbook.red-bean.com/en/1.7/svn-book.html#svn.serverconfig.pathbasedauthz)
 and convert it into a form which can be used inside an application.

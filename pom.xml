@@ -10,6 +10,11 @@
     <version>0.6.2</version>
   </parent>
 
+<!--
+   This is Feature 3
+   This is Feature 3
+   This is Feature 3
+-->
   <groupId>com.soebes.subversion.sapm</groupId>
   <artifactId>sapm</artifactId>
   <version>0.5-SNAPSHOT</version>

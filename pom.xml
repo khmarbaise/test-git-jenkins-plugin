@@ -15,6 +15,7 @@ Feature A1
 Feature A1
 Feature A1
 Feature A1
+Feature A2
 -->
   <groupId>com.soebes.subversion.sapm</groupId>
   <artifactId>sapm</artifactId>
